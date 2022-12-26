@@ -6,8 +6,8 @@ This app allows a user to enter there first, last name, and school they are
 attending in a text field. The user then can select what year they are in from 
 a segmented control. The user will be able to increase or decrease a stepper 
 according to how many pets they own. They will also have the option to click on 
-a switch to notify app whether they would want more more pets. A button that 
-can change the background color was also added. 
+a switch to notify app whether they would want more more pets. There is also a button that 
+can change the background color. 
 
 ### App Walk-though
 
