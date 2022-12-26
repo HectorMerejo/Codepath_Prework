@@ -11,7 +11,9 @@ can change the background color was also added.
 
 ### App Walk-though
 
-<!-- <img src="https://github.com/HectorMerejo/codepath_prework/blob/ed293ad7f7dc28e229776397f55090e72ca27637/CodePath%20Prework.gif" width=200/><br> OR <img src="CodePath Prework.gif" width=200><br> -->
+<img src="https://github.com/HectorMerejo/codepath_prework/blob/ed293ad7f7dc28e229776397f55090e72ca27637/CodePath%20Prework.gif" width=200><br> 
+<!-- OR 
+<img src="CodePath Prework.gif" width=200><br> -->
 
 ### Required Features
 
